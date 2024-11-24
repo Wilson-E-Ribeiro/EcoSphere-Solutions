@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1732229595 source:c:\users\wilri\onedrive\Área de trabalho\codeblocks\ecospheresolutions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+

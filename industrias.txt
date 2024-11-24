@@ -1,0 +1,30 @@
+Indústria: Starship 1
+CNPJ: 12345678910
+Endereço: rua das naves espaciais
+Insumos mês 1: 5000,00
+Gastos mês 1: 10000,00
+Insumos mês 2: 6000,00
+Gastos mês 2: 20000,00
+Insumos mês 3: 857,00
+Gastos mês 3: 1556,00
+Insumos mês 4: 7888,00
+Gastos mês 4: 11222,00
+Insumos mês 5: 6999,00
+Gastos mês 5: 23333,00
+Insumos mês 6: 5144,00
+Gastos mês 6: 51000,00
+Indústria: Starship 2
+CNPJ:  12345678911
+Endereço:  rua das naves espaciais 200
+Insumos mês 1: 6000,00
+Gastos mês 1: 90000,00
+Insumos mês 2: 7000,00
+Gastos mês 2: 10000,00
+Insumos mês 3: 8000,00
+Gastos mês 3: 20000,00
+Insumos mês 4: 9000,00
+Gastos mês 4: 30000,00
+Insumos mês 5: 1000,00
+Gastos mês 5: 40000,00
+Insumos mês 6: 2000,00
+Gastos mês 6: 50000,00

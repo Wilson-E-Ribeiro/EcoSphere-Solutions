@@ -1,0 +1,12 @@
+Lista de Funcionários
+---------------------
+Nome: Albert Einstein
+Telefone: 99999999
+CPF: 4887522865
+Endereço: rua londres wilson
+
+Nome: JoÆo da Silva
+Telefone: 16988272864
+CPF: 41782556854
+Endereço: rua dos abacaxis
+
